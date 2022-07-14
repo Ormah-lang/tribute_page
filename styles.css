@@ -1,1 +1,45 @@
 /* Copy and paste your CSS from CodePen into here */
+#main {
+
+    margin: 30px auto;
+    padding: 15px;
+    background-color: #dddddd;
+    border-radius: 5px
+}
+
+#title {
+    font-size: 3rem;
+}
+
+#img-div {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 15px;
+    background-color: white;
+
+}
+
+#image {
+    max-width: 100%;
+    max-height: auto;
+    margin: 0 auto;
+    display: block;
+    padding-bottom: 10px
+}
+
+#img-caption {
+    font-size: large;
+}
+
+#tribute-info {
+    text-align: left
+}
+
+li {
+    margin: 16px 0;
+
+}
+
+.center {
+    text-align: center
+}
